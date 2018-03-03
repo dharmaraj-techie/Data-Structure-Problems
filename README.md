@@ -1,2 +1,2 @@
 # Data-Structure-Problems
-data Structure problems solved using java
+This is repository of data Structure problems which are part of the course Data Structure in Coursera
