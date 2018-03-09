@@ -59,7 +59,9 @@ class check_brackets {
         }
         
         if(opening_brackets_stack.isEmpty()){
-        	System.out.println("Sucess");
+        	System.out.println("Success");
+        }else{
+        	System.out.println(opening_brackets_stack.peek().position);
         }
     }
 }
